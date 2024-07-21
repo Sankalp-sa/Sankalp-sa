@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sankalp-sa" alt="sankalp-sa" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://bento.me/sankalp-s](https://bento.me/sankalp-s)
-
 - 📫 How to reach me **sankalp.p@ahduni.edu.in**
 
 <h3 align="left">Connect with me:</h3>
